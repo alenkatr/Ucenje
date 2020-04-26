@@ -1,2 +1,2 @@
 # Ucenje
-Nekaj primero za vajo.
+Nekaj primerov za vajo.
