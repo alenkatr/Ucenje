@@ -1,0 +1,982 @@
+ 1015  python submit.py
+ 1016  python3 submit.py
+ 1017  arcstat -i joblist.xml
+ 1018  arcstat -a
+ 1019  cd ex16.12/
+ 1020  arcget  gsiftp://jost.arnes.si:2811/jobs/cniKDmsh00vnmmR0Xox1SiGmABFKDmABFKDmnUvPDmABFKDmDc5oIm
+ 1021  arcstat -a
+ 1022  cd ..
+ 1023  arcstat -a
+ 1024  arcget -i joblist.xml
+ 1025  cd ex16.12/
+ 1026  arcget -a
+ 1027  sudo apt-get update
+ 1028  sudo apt-get upgrade
+ 1029  nano facerec1.py
+ 1030  cd Documents/
+ 1031  ls
+ 1032  cd ImageProg/
+ 1033  nano facerec2.py
+ 1034  nano facerec1.py 
+ 1035  sudo apt-get update
+ 1036  sudo apt-get upgrade
+ 1037  pwd
+ 1038  cd Documents/
+ 1039  ls
+ 1040  cd ImageProg/
+ 1041  ls
+ 1042  nano facerec3.py
+ 1043  sudo apt-get-update
+ 1044  sudo apt-get update
+ 1045  sudo apt-get upgrade
+ 1046  cd Documents/
+ 1047  ls
+ 1048  cd ImageProg/
+ 1049  ls
+ 1050  cd ..
+ 1051  cd Slike/
+ 1052  ls
+ 1053  mkdir CatDog
+ 1054  ls
+ 1055  sudo apt-get update
+ 1056  sudo apt-get upgrade
+ 1057  arcproxy -I
+ 1058  cd Documents/
+ 1059  ls
+ 1060  cd Slike/
+ 1061  mkdir fashion
+ 1062  ls
+ 1063  cd fashion/
+ 1064  ls
+ 1065  cd ..
+ 1066  cd ImageProg/
+ 1067  ls
+ 1068  nano fashion.py
+ 1069  ls
+ 1070  mkdir fashion
+ 1071  cd fashion/
+ 1072  ls
+ 1073  nano fashion.xrsl
+ 1074  nano fashion.sh
+ 1075  ls
+ 1076  cd
+ 1077  ls
+ 1078  cd jobs
+ 1079  ls
+ 1080  nano arc-poskus1.txt 
+ 1082  cd
+ 1083  cd Documents/
+ 1084  ls
+ 1085  cd ImageProg/fashion
+ 1086  ls
+ 1087  python3 fashion.py
+ 1088  nano fashion.py
+ 1089  python3 fashion.py
+ 1090  nano fashion.py
+ 1091  nano fashion.xrsl
+ 1092  python3 fashion.py
+ 1093  nano fashion.py
+ 1094  arcsub -c jost.arnes.si fashion.xrsl
+ 1095  arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1096  ls
+ 1097  nano fashion.sh
+ 1098  nano fashion.xrsl
+ 1099  arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1100  cat /.hostory_bash
+ 1101  cat ./hostory_bash
+ 1103  arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1104  cd Documents/
+ 1105  ls
+ 1106  cd ImageProg/
+ 1107  ls
+ 1108  cd fashion/
+ 1109  ls
+ 1110  nano fashion.xrsl
+ 1111  nano fashion.sh
+ 1112  arcproxy -I
+ 1113  cd
+ 1114  arcproxy -I
+ 1115  cd Documents/
+ 1116  ls
+ 1117  cd ImageProg/
+ 1118  ls
+ 1119  cd fashion
+ 1120  ls
+ 1121  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_60ba4/jdt_ws/jdt.ls-java-project/bin prestopno 
+ 1122  sudo apt-get update
+ 1123  sudo apt-get upgrade
+ 1124  sudo apt install ./<file>.deb
+ 1125  sudo apt install ./https://go.microsoft.com/fwlink/?LinkID=760868.deb
+ 1126  sudo apt install https://go.microsoft.com/fwlink/?LinkID=760868.deb
+ 1127  sudo apt install https://code.visualstudio.com/download.deb
+ 1128  open -a Visual Studio
+ 1129  open Visual Studio
+ 1130  Visual Studio Code
+ 1131  (Visual Studio Code &)
+ 1132  apt-get Visual Studio
+ 1133  dpkg --list
+ 1134  arcproxy -S hpc.fis.unm.si
+ 1135  arcproxy -I
+ 1136  cd Dokumenti/Alenka/Shell/
+ 1137  nano navodila.txt
+ 1138  ls
+ 1139  nano navodila.txt
+ 1140  arcproxy -I
+ 1141  ls
+ 1142  cd
+ 1143  cd Documents/Slike/
+ 1144  ls
+ 1145  cd ..
+ 1146  ls
+ 1147  cd ImageProg/
+ 1148  ls
+ 1149  cd
+ 1150  ls
+ 1151  cd MyJava/
+ 1152  ls
+ 1153  nano kr.java
+ 1154  nano prestopno.java
+ 1155  nano prestopno.xrsl
+ 1156  nano kr.xrsl
+ 1157  nano prestopno.xrsl
+ 1158  kr.sh
+ 1159  nano kr.sh
+ 1160  nano prestopno.sh
+ 1161  arcsub -c jost.arnes.si prestopno.xrsl
+ 1162  ls
+ 1163  chmod a+x prestopno.sh
+ 1164  ./prestopno.sh
+ 1165  arcsub -c jost.arnes.si prestopno.xrsl
+ 1166  cd ex13.12/
+ 1167  ls
+ 1168  nano run.sh
+ 1169  cd ..
+ 1170  nano mat.sh
+ 1171  nano prestopno.sh
+ 1172  ls
+ 1173  nano mat.xrsl
+ 1174  nano prestopno.xrsl
+ 1175  arcsub -c jost.arnes.si prestopno.xrsl
+ 1177  nano mat.sh
+ 1179  ls
+ 1180  cd
+ 1181  cd Documents/
+ 1182  ls
+ 1183  cd ImageProg/
+ 1184  ls
+ 1185  cd fashion/
+ 1186  ls
+ 1187  nano fashion.xrsl
+ 1188  nano fashion.py
+ 1189  nano fashion.sh
+ 1190  nano fashion.py
+ 1191  ls
+ 1192  nano fashion.xrsl
+ 1193  arcsub -c jost.arnes.si fashion.xrsl
+ 1194  arcstat
+ 1195  arcstat --all
+ 1196  arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1197  cd Documents/
+ 1198  ls
+ 1199  cd
+ 1200  cd jobs
+ 1201  ls
+ 1202  cd ex1
+ 1203  ls
+ 1204  nano vsota.xrsl
+ 1205  nano vsota.py
+ 1206  nano vsota.sh
+ 1207  arcproxy -S hpc.fis.unm.si
+ 1208  arcproxy -I
+ 1209  arcsub -c jost.arnes.si vsota.xrsl
+ 1210  arcstat --a
+ 1211  arcstat --all
+ 1212  arccat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1213  arcstat --all
+ 1214  arcget -a
+ 1215  arcstat --all
+ 1216  arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1217  cd vsnNDmGH7CwnmmR0Xox1SiGmABFKDmABFKDmgelMDmABFKDmXR4fgm/
+ 1218  ls
+ 1219  nano out.txt 
+ 1220  cd ..
+ 1221  /usr/bin/python3 /home/alenkat/Documents/ImageProg/fashion/fashion.py
+ 1222  ls
+ 1223  nano fashion.xrsl
+ 1224  cd 
+ 1225  cd jobs
+ 1226  java Matem.java
+ 1227  exit
+ 1228  /usr/bin/python3 /home/alenkat/Documents/VisualSt/fash.py
+ 1229  install numpy
+ 1230  cd
+ 1231  cd jobs
+ 1232  ls
+ 1233  cd ex16.12/
+ 1234  ls
+ 1235  cd ..
+ 1236  nano Matem.xrsl
+ 1237  cd ex9.12
+ 1238  cd ex9.12.vsota
+ 1239  ls
+ 1240  nano vsota.xrsl
+ 1241  cd
+ 1242  cd Documents/
+ 1243  ls
+ 1244  script screen1.log
+ 1245  ls
+ 1246  nano screen1.log
+ 1247  ls
+ 1248  script sc1,log
+ 1249  script sc1.txt
+ 1250  mv sc1,log
+ 1251  script sc2.log
+ 1252  ls
+ 1253  sudo tcpdump > output.txt
+ 1254  ls
+ 1255  nano output.txt
+ 1256  stdbuf -oL sudo tcpdump &> output1.txt
+ 1257  ls
+ 1258  rm -f sc1,log
+ 1259  ls
+ 1260  rm -f sc2.log
+ 1261  rm -f screen1.log
+ 1262  ls
+ 1263  nano output.txt 
+ 1264  nano output1.txt 
+ 1265  nano sc1.txt 
+ 1266  version numpy
+ 1267  whereis numpy
+ 1268  numpy
+ 1269  cd Documents/ImageProg/
+ 1270  ls
+ 1271  cd fashion
+ 1272  ls
+ 1273  python3 fashion.py
+ 1274  cd
+ 1275  sudo apt install python3-pip
+ 1276  python3
+ 1277  KeyboardInterrupt
+ 1278  python3 -c "import numpy; print(numpy.__version__)"
+ 1279  pip3 install numpy
+ 1280  python3 -c "import numpy; print(numpy.__version__)"
+ 1281  pip3 install keras
+ 1282  pip3 install tensorflow
+ 1283  cd Documents/ImageProg/fashion/
+ 1284  ls
+ 1285  python fashion.py
+ 1286  python3 fashion.py
+ 1287  cd
+ 1288  pip3 install pandas
+ 1289  cd Documents/ImageProg/fashion/
+ 1290  python3 fashion.py
+ 1291  nano fashion.py
+ 1292  python3 fashion.py
+ 1293  cd
+ 1294  sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
+ 1295  pip3 install sklearn
+ 1296  cd Documents/ImageProg/fashion/
+ 1297  python3 fashion.py
+ 1298  nano fashion.py
+ 1299  nano mnist_test.csv
+ 1300  nano fashion.py
+ 1301  python3 fashion.py
+ 1302  nano fashion.py
+ 1303  python3 fashion.py
+ 1304  nano fashion.py
+ 1305  python3 fashion.py
+ 1306  ls
+ 1307  nano fashion.py
+ 1308  python3 fashion.py
+ 1309  arcproxy -I
+ 1310  ls
+ 1311  arcsub -c jost.arnes.si fashion.xrsl
+ 1312  arcstat --all
+ 1313  arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1314  nano fashion.xrsl
+ 1315  arcsub -c jost.arnes.si fashion.xrsl
+ 1316  arcstat --all
+ 1317  arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1318  arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1319  arcstat --all
+ 1320  arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1321  arcstat -a
+ 1323  man arcsub
+ 1324  man arckill
+ 1325  arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1326  arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1327  arcstat --all
+ 1328  nano fashion.xrsl
+ 1329  arcsub -c jost.arnes.si fashion.xrsl
+ 1330  arcstat --all
+ 1331  arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1332  ls
+ 1333  arckill --all
+ 1334  arcstat --all
+ 1335  nano fashion.xrsl
+ 1336  arcsub -c jost.arnes.si fashion.xrsl
+ 1337  arcstat --all
+ 1338  arcget -f gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1339  arcstat -a
+ 1340  Job cancellation is an asynchronous process, such that it may take a few minutes before the job is
+ 1341  arcclean gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1342  arcstat --all
+ 1343  arcclean -s Undefined It happens ever so often that the job is cleaned by the system, or is otherwise unreachable, and yet
+ 1344  arcclean -s Undefined gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ 1345  arcstat --all
+ 1346  nano fashion.xrsl
+ 1347  arcsub -c jost.arnes.si fashion.xrsl
+ 1348  arcstat --all
+ 1350  ls
+ 1352  cd Documents/
+ 1353  ls
+ 1354  cd ImageProg/
+ 1355  ls
+ 1356  cd fashion/
+ 1357  ls
+ 1358  nano fashion.xrsl
+ 1359  nano fashion.sh
+ 1360  arcproxy -I
+ 1361  nano fash.txt
+ 1362  nano fashion.xrsl
+ 1363  nano fashion.py
+ 1364  nano fashion.sh
+ 1365  arcsub -c jost.arnes.si fashion.xrsl
+ 1366  arcstat --all
+ 1367  arcget gsiftp://jost.arnes.si:2811/jobs/bJIODm0fDFwnmmR0Xox1SiGmABFKDmABFKDmomVUDmABFKDmmQUr7n
+ 1368  ls
+ 1369  cd bJIODm0fDFwnmmR0Xox1SiGmABFKDmABFKDmomVUDmABFKDmmQUr7n
+ 1370  ls
+ 1371  nano out.txt
+ 1372  nano mylog.log/
+ 1373  cd mylog.log/
+ 1374  ls
+ 1375  nano output
+ 1376  nano errors
+ 1377  cd ..
+ 1378  arcinfo -I
+ 1379  arcproxy -I
+ 1381  ls
+ 1382  arcsub -v
+ 1383  arccat -e
+ 1384  arcinfo
+ 1385  arcinfo -l
+ 1386  arcproxy -I
+ 1387  cd Documents/ImageProg/
+ 1388  ls
+ 1389  cd fashion/
+ 1390  ls
+ 1391  nano fashion.py
+ 1392  nano fashion.xrsl
+ 1393  arcproxy -S hpc.fis.unm.si
+ 1394  nano fashion.xrsl
+ 1395  arcsub -c jost.arnes.si fashion.xrsl
+ 1396  arcstat --all
+ 1397  arcget gsiftp://jost.arnes.si:2811/jobs/5MULDmOWLGwnmmR0Xox1SiGmABFKDmABFKDm2XoQDmABFKDmfSoIXo
+ 1398  cd 5MULDmOWLGwnmmR0Xox1SiGmABFKDmABFKDm2XoQDmABFKDmfSoIXo/
+ 1399  ls
+ 1400  cd mylog.log/
+ 1401  ls
+ 1402  nano errors 
+ 1403  cd Documents/Slike/
+ 1404  cd FRDdatasetsearch/
+ 1405  nano opis.txt
+ 1406  cd Documents/
+ 1407  ls
+ 1408  nano passPrint
+ 1409  ifconfig
+ 1410  ip a 
+ 1411  ip a s
+ 1413  cd Documents/ImageProg/
+ 1414  ls
+ 1415  nano facerec.py
+ 1416  nano facerec1.py
+ 1417  nano facerec2.py
+ 1418  cd fashion/
+ 1419  ls
+ 1420  fashion.py
+ 1421  nano fashion.py
+ 1422  nano fashion.sh
+ 1423  nano fashion.xrsl
+ 1424  cd
+ 1425  cd Dokumenti/cd
+ 1426  cd Documents/Slike/FRDdatasetsearch/
+ 1427  s3://open-images-dataset
+ 1428  ls
+ 1429  nano ghoogleOpis.txt
+ 1430  ls
+ 1431  cd gOOGLE/
+ 1432  ls
+ 1433  cd FEC_dataset/
+ 1434  ls
+ 1435  nano faceexp-comparison-data-test-public.csv
+ 1436  wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg
+ 1437  wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg --no-check-certificate
+ 1438  ls
+ 1439  cd 12137399835_d9075d3194_b.jpg
+ 1440  arcproxy -S hpc.fis.unm.si
+ 1441  arcstat -I
+ 1442  arcproxy -I
+ 1443  cd ..
+ 1444  ls
+ 1445  cd ..
+ 1446  ls
+ 1447  cd ImageProg/
+ 1448  ls
+ 1449  cd fashion/
+ 1450  ls
+ 1451  arcls srm://dcache.arnes.si/data/arnes.si
+ 1452  arccp mnist gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/mnist/
+ 1453  arccp mnist
+ 1454  arccp --recursive=999 mnist
+ 1455  arccp --recursive=999 mnist\ gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/mnist/
+ 1456  arccp --recursive=999 mnist
+ 1457  ls
+ 1458  arcls
+ 1459  cd
+ 1460  ls
+ 1461  /arc
+ 1462  .arc
+ 1463  ls
+ 1464  ./arc
+ 1465  /.arc
+ 1466  whereis arc
+ 1467  cd /usr/
+ 1468  cd /lib64
+ 1469  ls
+ 1470  cd
+ 1471  cd /usr/lib/
+ 1472  ls
+ 1473  cd arc
+ 1474  ls
+ 1475  cd
+ 1476  cd /usr/lib/arc
+ 1477  arcls 
+ 1478  arcls srm://dcache.arnes.si/data/arnes.si
+ 1479  arcproxy -I
+ 1480  cd
+ 1481  arcls srm://dcache.arnes.si/data/arnes.si
+ 1482  gen.vo.sling.si
+ 1483  ops
+ 1484  arcls
+ 1485  cd Documents/ImageProg/fashion/
+ 1486  arcinfo jost.arnes.si
+ 1487  arcls jost.arnes.si
+ 1488  arcls
+ 1489  arccp mnist
+ 1490  arcls ldap://jost.arnes.si:2135/Mds-Vo-Name=local,o=grid
+ 1491  arcls ldap://jost.arnes.si:2135
+ 1492  arcls ldap://jost.arnes.si
+ 1493  arcproxy -S gen.vo.sling.si
+ 1494  arcls srm://dcache.arnes.si/data/arnes.si
+ 1495  http://grid.domain.org/dir/script.sh
+ 1496  http://grid.domain.org/dir/
+ 1497  http://jost.arnes.si/dir/
+ 1498  arcls ldap://jost.arnes.si
+ 1499  arcsub -c jost.arnes.si
+ 1501  ls
+ 1502  sudo apt-get update
+ 1503  sudo apt-get upgrade
+ 1504  cd Documents/ImageProg/cd
+ 1505  cd Documents/ImageProg/
+ 1506  ls
+ 1507  cd ..
+ 1508  ls
+ 1509  cd Slike/
+ 1510  ls
+ 1511  cd FRDdatasetsearch/
+ 1512  ls
+ 1513  cd OpenImageDatasetV4/
+ 1514  ls
+ 1515  nano extended-crowdsourced-image-ids.csv
+ 1516  ls
+ 1517  version libre office
+ 1518  cd
+ 1519  version libreoffice
+ 1520  sudo version libreoffice
+ 1521  libreoffice --version
+ 1522  sudo apt get-update
+ 1523  sudo apt-get update
+ 1524  sudo apt-get upgrade
+ 1525  sudo apt autoremove
+ 1526  sudo apt-get install ppa-purge && sudo ppa-purge ppa:libreoffice/ppa
+ 1527  sudo add-apt-repository ppa:libreoffice/ppa
+ 1528  sudo apt-get install ppa-purge && sudo ppa-purge ppa:libreoffice/ppa
+ 1529  sudo apt update
+ 1530  sudo apt install libreoffice
+ 1531  libreoffice --version
+ 1532  cd Documents/Slike/
+ 1533  ls
+ 1534  cd FRDdatasetsearch/
+ 1535  ls
+ 1536  cd OpenImageDatasetV4/
+ 1537  ls
+ 1538  wget -i `wget -qO- https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'`
+ 1539  wget -i `wget -qO- https://lh3.googleusercontent.com | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'
+ 1540  wget -i `wget -qO- https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'
+ 1541  wget -i `wget -qO- https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+ 1542  wget [-i] `wget -qO- [https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+ 1543  wget [-i] `wget -qO- [https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+ 1544  wget [-i] `wget [-qO-] [https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+ 1545  wget --i
+ 1546  wget --help
+ 1547  wget -i https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+ 1548  wget -i `wget -qO- https://storage.googleapis.com/openimages/web/extended.html | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'`
+ 1549  wget https://storage.googleapis.com/openimages/web/extended.html
+ 1550  wget https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+ 1551  man wget https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+ 1552  grep -oh 'http://pics.domain.com/pics/original/.*jpg' *.html >urls.txt
+ 1553  grep -oh 'http://pics.domain.com/pics/original/.*jpg' https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv >urls.txt
+ 1554  grep -oh 'http://pics.domain.com/pics/original/.*jpg' https://storage.googleapis.com/openimages/web/extended.html >urls.txt
+ 1555  grep -oh 'https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv/.*jpg' https://storage.googleapis.com/openimages/web/extended.html >urls.txt
+ 1557  wget https://storage.googleapis.com/openimages/web/extended.html
+ 1558  man wget 
+ 1559  # get all pages
+ 1560  curl 'http://domain.com/id/[1-151468]' -o '#1.html'
+ 1561  ls
+ 1562  cd ..
+ 1563  ls
+ 1564  sort -u image_ids_and_rotation.csv | wget -i-
+ 1565  awk -F'src="' -F'"' '/<https*.jpg /{print $6}' primer1.txt
+ 1566  awk -F'src="' -F'"' '/<https*.jpg /{print $6}' image_ids_and_rotation.csv
+ 1567  ls
+ 1568  awk -F'src="' -F'"' '/<https*.jpg /{print $6}' poskus1.txt
+ 1569  awk -F'src="' -F'"' '/<https*.jpg /{print $6}' Poskus1.txt
+ 1570  ls
+ 1571  nano Poskus1.txt
+ 1572  grep -oh 'image_ids_and_rotation.csv/' *.jpg >p1.txt
+ 1573  grep -oh 'https* .jpg/' *.csv >p1.txt
+ 1574  ls
+ 1575  nano p1.txt 
+ 1576  sed -e 's/train\(.*\),htt/\1/' p2.txt
+ 1577  sed -e 's/train\(.*\),htt/\1/' Poskus1.txt
+ 1578  sed -n 's/^.*https/*.jpg = //p' Primer1.txt
+ 1579  sed -n '/^.*train = //p' Primer1.txt
+ 1580  grep https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg Primer1.txt | sed 's/.*= //'
+ 1581  ls
+ 1582  grep https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg Poskus1.txt | sed 's/.*= //'
+ 1583  sed -n [https* *.jpg] /p" Poskus1.txt
+ 1584  ls
+ 1585  sed -n -e 's/.*\(https\).jpg /p' Poskus1.txt
+ 1586  sed -n  's/.*\(https\).jpg /p' Poskus1.txt
+ 1587  sed -n  's/.*\(https\) /p' Poskus1.txt
+ 1588  sed -e 's/[a-z] [0-9]\(.*\),htt/\1/' Poskus1.txt
+ 1589  echo '*  Poskus1.txt   *' | awk  '{print $https*.jpg}'
+ 1590  echo 'Poskus1.txt' | awk  '{print $https*.jpg}'
+ 1591  awk -F '[https* .jpg]' '{print $2}' Poskus1.txt
+ 1592  awk -F '[https* .jpg]' '{print $3}' Poskus1.txt
+ 1593  awk -F '[,,https/www.]' '{print $3}' Poskus1.txt
+ 1594  awk -F '[[0-9],,https/ww*]' '{print $3}' Poskus1.txt
+ 1595  wget -i- https://c5.staticflickr.com/8/7273/7134753487_ef8c60dd20_z.jpg
+ 1596  grep -oh 'http://pics.domain.com/pics/original/.*jpg' *.html >urls.txt
+ 1597  grep --help
+ 1598  grep -oh 'http:*jpg' Poskus1.txt  >urls.txt
+ 1599  grep -o 'http:*jpg' Poskus1.txt >urls.txt
+ 1600  ls
+ 1601  nano urls.txt
+ 1602  sed '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' Poskus1.txt
+ 1603  sed -n '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/!p' Poskus1.txt
+ 1604  sed --in-Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/d' url1.txt
+ 1605  sed -i Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/d' url1.txt
+ 1606  sed -i Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' url1.txt
+ 1607  sed -i[Poskus1.txt] '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' url1.txt
+ 1608  sed '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' Poskus1.txt
+ 1609  sed "s/.jpg,https*//g"
+ 1610  grep -o 'htts.*jpg' Poskus1.txt >urls.txt
+ 1611  nano urls.txt 
+ 1612  grep -o 'https.*jpg' Poskus1.txt >urls.txt
+ 1613  nano urls.txt 
+ 1614  sort --help
+ 1615  sort -u urls.txt | wget -i-
+ 1616  ls
+ 1617  wget --hečp
+ 1618  wget --help
+ 1619  sort -u urls.txt | wget -i
+ 1620  wget -r https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg
+ 1621  wget -r -l1 -A.jpg https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv
+ 1622  wget -r -l1 -A.jpg https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv `--no-check-certificate'
+ 1623  wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg --no-check-certificate
+ 1624  ls
+ 1625  wget https://farm5.staticflickr.com/5128/5301868579_f042b35323_o.jpg --no-check-certificate
+ 1626  ls
+ 1627  wget https://farm5.staticflickr.com/5128/5301868579_f042b35323_o.jpg --no-check-certificate
+ 1628  sort -u urls.txt | wget -i- --no-check-certificate
+ 1629  ls
+ 1630  cd 
+ 1631  whereis ukazi.tht
+ 1632  yum install voms-clients
+ 1633  exit
+ 1634  yum repolist all
+ 1635  yum-config-manager --enable <fashion>
+ 1636  yum-config-manager --enable fashion
+ 1637  apt install yum-utils
+ 1638  yum-config-manager --enable fashion
+ 1639  ls
+ 1640  yum install voms-clients
+ 1641  yum repolist all
+ 1642  exit
+ 1643  sudo apt-get updated
+ 1644  sudo apt-get update
+ 1645  sudo apt-get upgrade
+ 1646  libreoffice --version
+ 1647  vips im_vips2csv TM.AN1.190.tiff result.csv
+ 1648  whereis train-images-idx3-ubyte.gz
+ 1649  cd Documents/Slike/Images
+ 1650  ls
+ 1651  sort -u ImageNet.txt | wget -i- --no-check-certificate
+ 1652  cd ~/.arc
+ 1653  ls
+ 1654  cd
+ 1655  cd Documents/Slike/
+ 1656  ls
+ 1657  cd ..
+ 1658  ls
+ 1659  cd ImageProg/
+ 1660  ls
+ 1661  cd fashion/
+ 1662  ls
+ 1663  nano fash.txt
+ 1664  nano fashion.xrsl
+ 1665  arcproxy -S hpc.fis.unm.si
+ 1666  arcproxy -I
+ 1667  ls
+ 1668  cd mnist
+ 1669  ls
+ 1670  arccp mnist_test.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/fashion/
+ 1671  arcls srm://dcache.arnes.si/data/arnes.si
+ 1672  ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+ 1673  sudo apt install ldap-utils
+ 1674  ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+ 1675  srmping srm://dcache.arnes.si
+ 1676  yum install voms-clients
+ 1677  sudo apt install yum
+ 1678  yum install voms-clients
+ 1679  root
+ 1680  sudo -s
+ 1681  sudo su
+ 1682  sudo -s
+ 1683  arcls srm://dcache.arnes.si/data/arnes.si
+ 1684  cd
+ 1685  ~/.arc
+ 1686  cd ~/.arc
+ 1687  arcls srm://dcache.arnes.si/data/arnes.si
+ 1688  arcproxy -I
+ 1689  sudo arcls srm://dcache.arnes.si/data/arnes.si
+ 1690  ll
+ 1691  cat srms.conf 
+ 1692  sudo arcls srm://dcache.arnes.si/
+ 1693  arcls srm://dcache.arnes.si/
+ 1694  arcls 
+ 1695  arcls --help
+ 1696  arcls -v
+ 1697  arcls -P
+ 1698  ll
+ 1699  cat client.conf 
+ 1700  less client.conf 
+ 1701  ll
+ 1702  arcls srm://dcache.arnes.si/
+ 1703  arcls srm://dcache.arnes.si/data/arnes.si
+ 1704  arcls srm://dcache.arnes.si/data/arnes.si/
+ 1705  arcls srm://dcache.arnes.si/data/arnes.si/Alenkat
+ 1706  ll
+ 1707  mkdir naoge
+ 1708  mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} [naoge]
+ 1709  ls
+ 1710  mv [vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl] [naoge]
+ 1711  mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} {naoge}
+ 1712  ls
+ 1713  mv Matem.sh naoge
+ 1714  ls
+ 1715  mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} naoge
+ 1716  mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} naoge
+ 1717  mv vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl naoge
+ 1718  mv -t naoge vsota.sh* vsota.py vsota.xrsl test1.xrsl Matem.xrsl Matem.java joblist.xml joblist1.xml hellogrid.xrsl
+ 1719  mv vsota.sh* vsota.py vsota.xrsl test1.xrsl Matem.xrsl Matem.java joblist.xml joblist1.xml hellogrid.xrsl naoge
+ 1720  mv vsota.sh* naoge
+ 1721  ls
+ 1722  ll
+ 1723  cd
+ 1724  cd Documents/Slike/
+ 1725  ls
+ 1726  cd fashion/
+ 1727  ls
+ 1728  cd ..
+ 1729  ll
+ 1730  cd ..
+ 1731  ImageProg/
+ 1732  cd ImageProg/
+ 1733  ls
+ 1734  cd fashion/
+ 1735  ls
+ 1736  nano fashion.xrsl 
+ 1737  nano fashion.sh
+ 1738  cat fashion.sh
+ 1739  nano fashion.xrsl 
+ 1740  arcsub -c jost.arnes.si fashion.xrsl
+ 1741  ls
+ 1742  nano fashion.xrsl 
+ 1743  cd mnist
+ 1744  ls
+ 1745  mv mnist_test.csv fashion
+ 1746  ls
+ 1747  mv fashion mnist_test.csv
+ 1748  ls
+ 1749  cd ..
+ 1750  ls
+ 1751  arcsub -c jost.arnes.si fashion.xrsl
+ 1752  arcstat --all
+ 1753  arccat --all
+ 1754  arcstat --all
+ 1755  arccat -
+ 1756  arccat -l
+ 1757  arcstat --all
+ 1758  ls
+ 1759  arcget gsiftp://jost.arnes.si:2811/jobs/wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ 1760  cd gsiftp://jost.arnes.si:2811/jobs/wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ 1761  ls
+ 1762  cd wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ 1763  ls
+ 1764  ll
+ 1765  cd mylog,log
+ 1766  ls
+ 1767  nano err.txt
+ 1768  cd ..
+ 1769  cdls
+ 1770  cd ..
+ 1771  cd fashion/
+ 1772  ls
+ 1773  cd wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ 1774  ls
+ 1775  cd mylog.log
+ 1776  ls
+ 1777  nano errors
+ 1778  nano output
+ 1779  nano xml
+ 1780  nano local
+ 1781  nano input
+ 1782  nano grami
+ 1783  nano failed
+ 1784  nano diag
+ 1785  nano description 
+ 1786  cd ..
+ 1787  ls
+ 1788  nano fashion.xrsl
+ 1789  vips
+ 1790  sudo apt install libvips-tools
+ 1791  ls
+ 1792  cd ..
+ 1793  ls
+ 1794  cd ..
+ 1795  ls
+ 1796  cd Slike/
+ 1797  ls
+ 1798  cd FRDKaggle/
+ 1799  ls
+ 1800  nano test.csv 
+ 1801  cd ..
+ 1802  ls
+ 1803  cd Convert/
+ 1804  nano program1.py
+ 1805  nano program2.py
+ 1806  lsblf
+ 1807  lsblk
+ 1808  mount
+ 1809  ll
+ 1810  nginx --version
+ 1811  server --version
+ 1812  hostname
+ 1813  sudo nano /etc/default/apport
+ 1814  cd Documents/
+ 1815  ls
+ 1817  ll
+ 1818  cd ImageProg/
+ 1819  ls
+ 1820  cd ..
+ 1821  cd Slike/
+ 1822  ll
+ 1823  cd FRDImage/
+ 1824  ls
+ 1825  nano opis.txt
+ 1826  cd ..
+ 1827  mkdir FRDImNet
+ 1828  cd FRDImNet
+ 1829  nano urls.txt
+ 1830  sort -u urls.txt | wget -i- --no-check-certificate
+ 1831  cd ..
+ 1832  cd Ima
+ 1833  ls
+ 1834  cd ..
+ 1835  cd FRDKaggle/
+ 1836  grep -o "http.*jpeg" face_detection.json > urls.txt
+ 1837  ls
+ 1838  nano urls.txt
+ 1839  cd
+ 1840  cd Documents/Slike/FRDpics/
+ 1841  nano opis.txt
+ 1842  ls
+ 1843  cd ..
+ 1844  ls
+ 1845  cd Convert/
+ 1846  nano prog3.py
+ 1847  cd ..
+ 1848  cd FRDdatasetsearch/
+ 1849  ls
+ 1850  cd imageIds/
+ 1851  grep -o "https.*jpg" image_ids_and_rotation.csv > urls.txt
+ 1852  ls
+ 1853  nano urls.txt
+ 1854  nano opis.txt
+ 1855  sort -u urls.txt | wget -i- --no-check-certificate
+ 1856  cd ..
+ 1857  ls
+ 1858  cd FRDMITCbcl/
+ 1859  ls
+ 1860  cd test/
+ 1861  nano conv1.py
+ 1862  ls
+ 1863  cd ..
+ 1864  cd training-originals/
+ 1865  ls
+ 1866  nano conv1.py
+ 1867  python3 conv1.py
+ 1868  nano conv1.py
+ 1869  nano conv2.py
+ 1870  python3 conv2.py
+ 1871  nano conv2.py
+ 1872  cv2
+ 1873  nano conv1.py
+ 1874  python3 conv1.py
+ 1875  nano conv1.py
+ 1876  ls
+ 1877  0008_007.jpg jpgtopnm
+ 1878  netpbm
+ 1879  for i in *.png; do pngtopnm $i | ppmtojpeg >`basename $i .png`.jpg; done
+ 1880  for i in *.jpg; do jpgtopnm $i | ppmtojpeg >`basename $i .png`..ppm; done
+ 1881  ls
+ 1882  for i in *.jpg; do jpgtopnm $i | jpgtopnm >`basename $i .png`.pnm; done
+ 1883  ls
+ 1884  rm -f *.ppm
+ 1885  ls
+ 1886  rm -f .pnm
+ 1887  ls
+ 1888  rm -f *.pnm
+ 1889  ls
+ 1890  nano conv1.py
+ 1891  cd Documents/ImageProg/
+ 1892  nano pngtocsv.py
+ 1893  cd ..
+ 1894  cd Slike/Convert/
+ 1895  nano program4.py
+ 1896  python3 program4.py
+ 1897  nano program4.py
+ 1898  ls
+ 1899  cd ..
+ 1900  ls
+ 1901  sudo apt-get update
+ 1902  sudo apt-get upgrade
+ 1903  audo apt autoremove
+ 1904  sudo apt autoremove
+ 1905  arcproxy -S hpc.fis.unm.si
+ 1906  arcproxy -I
+ 1907  ls * -r
+ 1908  ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
+ 1909  */*
+ 1910  Documents*/*
+ 1911  Documents/ */*
+ 1912  Documents */*
+ 1913  ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid'
+ 1914  ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+ 1915  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+ 1916  arcmkdir gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1917  arccp neki
+ 1918  arcproxy -S hpc.fis.unm.si
+ 1919  arcproxy -I
+ 1920  ll
+ 1921  cd ~/.arc
+ 1922  ll
+ 1923  cd
+ 1924  arcproxy -S gen.vo.sling.si
+ 1925  arcproxy -I
+ 1926  arcmkdir gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1927  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1928  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+ 1929  arccp <cd Documents/ImageProg/fashion/> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1930  arccp <Documents/ImageProg/fashion/mnist> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1931  cd Documents/ImageProg/fashion/ls
+ 1932  cd Documents/ImageProg/fashion/
+ 1933  ls
+ 1934  arccp mnist gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist
+ 1935  cd mnist
+ 1936  ls
+ 1937  arccp mnist_test.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_test.csv
+ 1938  arccp mnist_train.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+ 1939  arccd atrpin
+ 1940  arcls
+ 1941  arccd gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1942  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+ 1943  nano gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+ 1944  ls
+ 1945  nano gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_test.csv
+ 1946  ls
+ 1947  cd ..
+ 1948  ls
+ 1949  nano fashion.xrsl
+ 1950  arcproxy -I
+ 1951  ./clientSRM  ping -e httpg://voms.sling.si:15005
+ 1952  ping -e httpg://voms.sling.si:15005
+ 1953  ping -6 httpg://voms.sling.si:15005
+ 1954  ping -6 httsg://voms.sling.si:15005
+ 1955  ping -6 https://voms.sling.si:15005
+ 1956  ping -6 voms.sling.si:15005
+ 1957  ping -6 [-s packetsize voms.sling.si:15005]
+ 1958  gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/.
+ 1959  gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+ 1960  ls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+ 1961  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+ 1962  cd ~/.arc
+ 1963  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+ 1964  arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+ 1965  cd
+ 1966  cd Documents/Slike/Convert/
+ 1967  python3 program2.py
+ 1968  nano program2.py
+ 1969  python3 program2.py
+ 1970  nano program2.py
+ 1971  install cv2
+ 1972  sudo apt-get install python3-cv2
+ 1973  sudo apt-get install python3-oopencv
+ 1974  sudo apt-get install python3-opencv
+ 1975  python3 program2.py
+ 1976  nano program2.py
+ 1977  python3 program2.py
+ 1978  nano program2.py
+ 1979  python3 program2.py
+ 1980  nano program2.py
+ 1981  python3 program2.py
+ 1983  arccp <local_file> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpincd ..
+ 1984  cd
+ 1985  cd Documents/ImageProg/fashion/
+ 1986  ls
+ 1987  nano fashion.xrsl
+ 1988  arcsub -c jost.arnes.si fashion.xrsl
+ 1989  arcstat --all
+ 1990  arckill gsiftp://jost.arnes.si:2811/jobs/FgfNDmT6aMwnmmR0Xox1SiGmABFKDmABFKDmxoNbDmABFKDmWZdkDo
+ 1991  arcstat --all
+ 1992  arccp mnist_train.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+ 1993  sudo apt-grt update
+ 1994  sudo apt-get update
+ 1995  sudo apt-get upgrade
+ 1997  cd Documents/Slike/Convert/
+ 1998  python3 program1.py
+ 1999  autopep8 -i program1.py
+ 2000  python3 program1.py
+ 2001  ls
+ 2002  nano img_pixels.csv
+ 2003  python3 program1.py
+ 2004  ls
+ 2005  python3 program4.py
+ 2007  ls
+ 2008  cd ..
+ 2010  ls
+ 2011  cd Convert/
+ 2013  ls

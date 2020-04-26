@@ -1,0 +1,1000 @@
+ls
+cd ex16.12/
+ls
+cd ..
+nano submit.py
+python submit.py
+python3 submit.py
+arcstat -i joblist.xml
+arcstat -a
+cd ex16.12/
+arcget  gsiftp://jost.arnes.si:2811/jobs/cniKDmsh00vnmmR0Xox1SiGmABFKDmABFKDmnUvPDmABFKDmDc5oIm
+arcstat -a
+cd ..
+arcstat -a
+arcget -i joblist.xml
+cd ex16.12/
+arcget -a
+sudo apt-get update
+sudo apt-get upgrade
+nano facerec1.py
+cd Documents/
+ls
+cd ImageProg/
+nano facerec2.py
+nano facerec1.py 
+sudo apt-get update
+sudo apt-get upgrade
+pwd
+cd Documents/
+ls
+cd ImageProg/
+ls
+nano facerec3.py
+sudo apt-get-update
+sudo apt-get update
+sudo apt-get upgrade
+cd Documents/
+ls
+cd ImageProg/
+ls
+cd ..
+cd Slike/
+ls
+mkdir CatDog
+ls
+sudo apt-get update
+sudo apt-get upgrade
+arcproxy -I
+cd Documents/
+ls
+cd Slike/
+mkdir fashion
+ls
+cd fashion/
+ls
+cd ..
+cd ImageProg/
+ls
+nano fashion.py
+ls
+mkdir fashion
+cd fashion/
+ls
+nano fashion.xrsl
+nano fashion.sh
+ls
+cd
+ls
+cd jobs
+ls
+nano arc-poskus1.txt 
+cat ~/.bash_history
+cd
+cd Documents/
+ls
+cd ImageProg/fashion
+ls
+python3 fashion.py
+nano fashion.py
+python3 fashion.py
+nano fashion.py
+nano fashion.xrsl
+python3 fashion.py
+nano fashion.py
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ls
+nano fashion.sh
+nano fashion.xrsl
+arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+cat /.hostory_bash
+cat ./hostory_bash
+cat ~/.bash_history
+arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+cd Documents/
+ls
+cd ImageProg/
+ls
+cd fashion/
+ls
+nano fashion.xrsl
+nano fashion.sh
+arcproxy -I
+cd
+arcproxy -I
+cd Documents/
+ls
+cd ImageProg/
+ls
+cd fashion
+ls
+/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /tmp/vscodesws_60ba4/jdt_ws/jdt.ls-java-project/bin prestopno 
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install ./<file>.deb
+sudo apt install ./https://go.microsoft.com/fwlink/?LinkID=760868.deb
+sudo apt install https://go.microsoft.com/fwlink/?LinkID=760868.deb
+sudo apt install https://code.visualstudio.com/download.deb
+open -a Visual Studio
+open Visual Studio
+Visual Studio Code
+(Visual Studio Code &)
+apt-get Visual Studio
+dpkg --list
+arcproxy -S hpc.fis.unm.si
+arcproxy -I
+cd Dokumenti/Alenka/Shell/
+nano navodila.txt
+ls
+nano navodila.txt
+arcproxy -I
+ls
+cd
+cd Documents/Slike/
+ls
+cd ..
+ls
+cd ImageProg/
+ls
+cd
+ls
+cd MyJava/
+ls
+nano kr.java
+nano prestopno.java
+nano prestopno.xrsl
+nano kr.xrsl
+nano prestopno.xrsl
+kr.sh
+nano kr.sh
+nano prestopno.sh
+arcsub -c jost.arnes.si prestopno.xrsl
+ls
+chmod a+x prestopno.sh
+./prestopno.sh
+arcsub -c jost.arnes.si prestopno.xrsl
+cd ex13.12/
+ls
+nano run.sh
+cd ..
+nano mat.sh
+nano prestopno.sh
+ls
+nano mat.xrsl
+nano prestopno.xrsl
+arcsub -c jost.arnes.si prestopno.xrsl
+cat ~/.bash_history
+nano mat.sh
+history > primer2.txt
+ls
+cd
+cd Documents/
+ls
+cd ImageProg/
+ls
+cd fashion/
+ls
+nano fashion.xrsl
+nano fashion.py
+nano fashion.sh
+nano fashion.py
+ls
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat
+arcstat --all
+arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+cd Documents/
+ls
+cd
+cd jobs
+ls
+cd ex1
+ls
+nano vsota.xrsl
+nano vsota.py
+nano vsota.sh
+arcproxy -S hpc.fis.unm.si
+arcproxy -I
+arcsub -c jost.arnes.si vsota.xrsl
+arcstat --a
+arcstat --all
+arccat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat --all
+arcget -a
+arcstat --all
+arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+cd vsnNDmGH7CwnmmR0Xox1SiGmABFKDmABFKDmgelMDmABFKDmXR4fgm/
+ls
+nano out.txt 
+cd ..
+/usr/bin/python3 /home/alenkat/Documents/ImageProg/fashion/fashion.py
+ls
+nano fashion.xrsl
+cd 
+cd jobs
+java Matem.java
+exit
+/usr/bin/python3 /home/alenkat/Documents/VisualSt/fash.py
+install numpy
+cd
+cd jobs
+ls
+cd ex16.12/
+ls
+cd ..
+nano Matem.xrsl
+cd ex9.12
+cd ex9.12.vsota
+ls
+nano vsota.xrsl
+cd
+cd Documents/
+ls
+script screen1.log
+ls
+nano screen1.log
+ls
+script sc1,log
+script sc1.txt
+mv sc1,log
+script sc2.log
+ls
+sudo tcpdump > output.txt
+ls
+nano output.txt
+stdbuf -oL sudo tcpdump &> output1.txt
+ls
+rm -f sc1,log
+ls
+rm -f sc2.log
+rm -f screen1.log
+ls
+nano output.txt 
+nano output1.txt 
+nano sc1.txt 
+version numpy
+whereis numpy
+numpy
+cd Documents/ImageProg/
+ls
+cd fashion
+ls
+python3 fashion.py
+cd
+sudo apt install python3-pip
+python3
+KeyboardInterrupt
+python3 -c "import numpy; print(numpy.__version__)"
+pip3 install numpy
+python3 -c "import numpy; print(numpy.__version__)"
+pip3 install keras
+pip3 install tensorflow
+cd Documents/ImageProg/fashion/
+ls
+python fashion.py
+python3 fashion.py
+cd
+pip3 install pandas
+cd Documents/ImageProg/fashion/
+python3 fashion.py
+nano fashion.py
+python3 fashion.py
+cd
+sudo apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
+pip3 install sklearn
+cd Documents/ImageProg/fashion/
+python3 fashion.py
+nano fashion.py
+nano mnist_test.csv
+nano fashion.py
+python3 fashion.py
+nano fashion.py
+python3 fashion.py
+nano fashion.py
+python3 fashion.py
+ls
+nano fashion.py
+python3 fashion.py
+arcproxy -I
+ls
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat --all
+arckill gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat -a
+cat ~/.bash_history
+man arcsub
+man arckill
+arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat --all
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arcget gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+ls
+arckill --all
+arcstat --all
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arcget -f gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat -a
+Job cancellation is an asynchronous process, such that it may take a few minutes before the job is
+arcclean gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat --all
+arcclean -s Undefined It happens ever so often that the job is cleaned by the system, or is otherwise unreachable, and yet
+arcclean -s Undefined gsiftp://jost.arnes.si:2811/jobs/P6aLDmuyGBwnmmR0Xox1SiGmABFKDmABFKDmQxVaDmABFKDm8xYpCo
+arcstat --all
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+history > fash.txt
+ls
+cat ~/.bash_history
+cd Documents/
+ls
+cd ImageProg/
+ls
+cd fashion/
+ls
+nano fashion.xrsl
+nano fashion.sh
+arcproxy -I
+nano fash.txt
+nano fashion.xrsl
+nano fashion.py
+nano fashion.sh
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arcget gsiftp://jost.arnes.si:2811/jobs/bJIODm0fDFwnmmR0Xox1SiGmABFKDmABFKDmomVUDmABFKDmmQUr7n
+ls
+cd bJIODm0fDFwnmmR0Xox1SiGmABFKDmABFKDmomVUDmABFKDmmQUr7n
+ls
+nano out.txt
+nano mylog.log/
+cd mylog.log/
+ls
+nano output
+nano errors
+cd ..
+arcinfo -I
+arcproxy -I
+history > fash1.txt
+ls
+arcsub -v
+arccat -e
+arcinfo
+arcinfo -l
+arcproxy -I
+cd Documents/ImageProg/
+ls
+cd fashion/
+ls
+nano fashion.py
+nano fashion.xrsl
+arcproxy -S hpc.fis.unm.si
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arcget gsiftp://jost.arnes.si:2811/jobs/5MULDmOWLGwnmmR0Xox1SiGmABFKDmABFKDm2XoQDmABFKDmfSoIXo
+cd 5MULDmOWLGwnmmR0Xox1SiGmABFKDmABFKDm2XoQDmABFKDmfSoIXo/
+ls
+cd mylog.log/
+ls
+nano errors 
+cd Documents/Slike/
+cd FRDdatasetsearch/
+nano opis.txt
+cd Documents/
+ls
+nano passPrint
+ifconfig
+ip a 
+ip a s
+history > printer.txt
+cd Documents/ImageProg/
+ls
+nano facerec.py
+nano facerec1.py
+nano facerec2.py
+cd fashion/
+ls
+fashion.py
+nano fashion.py
+nano fashion.sh
+nano fashion.xrsl
+cd
+cd Dokumenti/cd
+cd Documents/Slike/FRDdatasetsearch/
+s3://open-images-dataset
+ls
+nano ghoogleOpis.txt
+ls
+cd gOOGLE/
+ls
+cd FEC_dataset/
+ls
+nano faceexp-comparison-data-test-public.csv
+wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg
+wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg --no-check-certificate
+ls
+cd 12137399835_d9075d3194_b.jpg
+arcproxy -S hpc.fis.unm.si
+arcstat -I
+arcproxy -I
+cd ..
+ls
+cd ..
+ls
+cd ImageProg/
+ls
+cd fashion/
+ls
+arcls srm://dcache.arnes.si/data/arnes.si
+arccp mnist gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/mnist/
+arccp mnist
+arccp --recursive=999 mnist
+arccp --recursive=999 mnist\ gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/mnist/
+arccp --recursive=999 mnist
+ls
+arcls
+cd
+ls
+/arc
+.arc
+ls
+./arc
+/.arc
+whereis arc
+cd /usr/
+cd /lib64
+ls
+cd
+cd /usr/lib/
+ls
+cd arc
+ls
+cd
+cd /usr/lib/arc
+arcls 
+arcls srm://dcache.arnes.si/data/arnes.si
+arcproxy -I
+cd
+arcls srm://dcache.arnes.si/data/arnes.si
+gen.vo.sling.si
+ops
+arcls
+cd Documents/ImageProg/fashion/
+arcinfo jost.arnes.si
+arcls jost.arnes.si
+arcls
+arccp mnist
+arcls ldap://jost.arnes.si:2135/Mds-Vo-Name=local,o=grid
+arcls ldap://jost.arnes.si:2135
+arcls ldap://jost.arnes.si
+arcproxy -S gen.vo.sling.si
+arcls srm://dcache.arnes.si/data/arnes.si
+http://grid.domain.org/dir/script.sh
+http://grid.domain.org/dir/
+http://jost.arnes.si/dir/
+arcls ldap://jost.arnes.si
+arcsub -c jost.arnes.si
+history > ukazi.txt
+ls
+sudo apt-get update
+sudo apt-get upgrade
+cd Documents/ImageProg/cd
+cd Documents/ImageProg/
+ls
+cd ..
+ls
+cd Slike/
+ls
+cd FRDdatasetsearch/
+ls
+cd OpenImageDatasetV4/
+ls
+nano extended-crowdsourced-image-ids.csv
+ls
+version libre office
+cd
+version libreoffice
+sudo version libreoffice
+libreoffice --version
+sudo apt get-update
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt autoremove
+sudo apt-get install ppa-purge && sudo ppa-purge ppa:libreoffice/ppa
+sudo add-apt-repository ppa:libreoffice/ppa
+sudo apt-get install ppa-purge && sudo ppa-purge ppa:libreoffice/ppa
+sudo apt update
+sudo apt install libreoffice
+libreoffice --version
+cd Documents/Slike/
+ls
+cd FRDdatasetsearch/
+ls
+cd OpenImageDatasetV4/
+ls
+wget -i `wget -qO- https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'`
+wget -i `wget -qO- https://lh3.googleusercontent.com | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'
+wget -i `wget -qO- https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'
+wget -i `wget -qO- https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+wget [-i] `wget -qO- [https://wall.alphacoders.com/by_sub_category.php\?id\=173173\&name\=Naruto+Wallpapers] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+wget [-i] `wget -qO- [https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+wget [-i] `wget [-qO-] [https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg] | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p'`
+wget --i
+wget --help
+wget -i https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+wget -i `wget -qO- https://storage.googleapis.com/openimages/web/extended.html | sed -n '/<img/s/.*src="\([^"]*\)".*/\1/p' | awk '{gsub("thumb-350-", "");print}'`
+wget https://storage.googleapis.com/openimages/web/extended.html
+wget https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+man wget https://c6.staticflickr.com/8/7375/13791738583_ceb93ee070_o.jpg
+grep -oh 'http://pics.domain.com/pics/original/.*jpg' *.html >urls.txt
+grep -oh 'http://pics.domain.com/pics/original/.*jpg' https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv >urls.txt
+grep -oh 'http://pics.domain.com/pics/original/.*jpg' https://storage.googleapis.com/openimages/web/extended.html >urls.txt
+grep -oh 'https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv/.*jpg' https://storage.googleapis.com/openimages/web/extended.html >urls.txt
+cat ~/.bash_history
+wget https://storage.googleapis.com/openimages/web/extended.html
+man wget 
+# get all pages
+curl 'http://domain.com/id/[1-151468]' -o '#1.html'
+ls
+cd ..
+ls
+sort -u image_ids_and_rotation.csv | wget -i-
+awk -F'src="' -F'"' '/<https*.jpg /{print $6}' primer1.txt
+awk -F'src="' -F'"' '/<https*.jpg /{print $6}' image_ids_and_rotation.csv
+ls
+awk -F'src="' -F'"' '/<https*.jpg /{print $6}' poskus1.txt
+awk -F'src="' -F'"' '/<https*.jpg /{print $6}' Poskus1.txt
+ls
+nano Poskus1.txt
+grep -oh 'image_ids_and_rotation.csv/' *.jpg >p1.txt
+grep -oh 'https* .jpg/' *.csv >p1.txt
+ls
+nano p1.txt 
+sed -e 's/train\(.*\),htt/\1/' p2.txt
+sed -e 's/train\(.*\),htt/\1/' Poskus1.txt
+sed -n 's/^.*https/*.jpg = //p' Primer1.txt
+sed -n '/^.*train = //p' Primer1.txt
+grep https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg Primer1.txt | sed 's/.*= //'
+ls
+grep https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg Poskus1.txt | sed 's/.*= //'
+sed -n [https* *.jpg] /p" Poskus1.txt
+ls
+sed -n -e 's/.*\(https\).jpg /p' Poskus1.txt
+sed -n  's/.*\(https\).jpg /p' Poskus1.txt
+sed -n  's/.*\(https\) /p' Poskus1.txt
+sed -e 's/[a-z] [0-9]\(.*\),htt/\1/' Poskus1.txt
+echo '*  Poskus1.txt   *' | awk  '{print $https*.jpg}'
+echo 'Poskus1.txt' | awk  '{print $https*.jpg}'
+awk -F '[https* .jpg]' '{print $2}' Poskus1.txt
+awk -F '[https* .jpg]' '{print $3}' Poskus1.txt
+awk -F '[,,https/www.]' '{print $3}' Poskus1.txt
+awk -F '[[0-9],,https/ww*]' '{print $3}' Poskus1.txt
+wget -i- https://c5.staticflickr.com/8/7273/7134753487_ef8c60dd20_z.jpg
+grep -oh 'http://pics.domain.com/pics/original/.*jpg' *.html >urls.txt
+grep --help
+grep -oh 'http:*jpg' Poskus1.txt  >urls.txt
+grep -o 'http:*jpg' Poskus1.txt >urls.txt
+ls
+nano urls.txt
+sed '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' Poskus1.txt
+sed -n '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/!p' Poskus1.txt
+sed --in-Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/d' url1.txt
+sed -i Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/d' url1.txt
+sed -i Poskus1.txt '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' url1.txt
+sed -i[Poskus1.txt] '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' url1.txt
+sed '/https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg/p' Poskus1.txt
+sed "s/.jpg,https*//g"
+grep -o 'htts.*jpg' Poskus1.txt >urls.txt
+nano urls.txt 
+grep -o 'https.*jpg' Poskus1.txt >urls.txt
+nano urls.txt 
+sort --help
+sort -u urls.txt | wget -i-
+ls
+wget --hečp
+wget --help
+sort -u urls.txt | wget -i
+wget -r https://farm3.staticflickr.com/5310/5898076654_51085e157c_o.jpg
+wget -r -l1 -A.jpg https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv
+wget -r -l1 -A.jpg https://storage.googleapis.com/open-images-extended/extended-crowdsourced-image-ids.csv `--no-check-certificate'
+wget http://farm4.staticflickr.com/3679/12137399835_d9075d3194_b.jpg --no-check-certificate
+ls
+wget https://farm5.staticflickr.com/5128/5301868579_f042b35323_o.jpg --no-check-certificate
+ls
+wget https://farm5.staticflickr.com/5128/5301868579_f042b35323_o.jpg --no-check-certificate
+sort -u urls.txt | wget -i- --no-check-certificate
+ls
+cd 
+whereis ukazi.tht
+yum install voms-clients
+exit
+yum repolist all
+yum-config-manager --enable <fashion>
+yum-config-manager --enable fashion
+apt install yum-utils
+yum-config-manager --enable fashion
+ls
+yum install voms-clients
+yum repolist all
+exit
+sudo apt-get updated
+sudo apt-get update
+sudo apt-get upgrade
+libreoffice --version
+vips im_vips2csv TM.AN1.190.tiff result.csv
+whereis train-images-idx3-ubyte.gz
+cd Documents/Slike/Images
+ls
+sort -u ImageNet.txt | wget -i- --no-check-certificate
+cd ~/.arc
+ls
+cd
+cd Documents/Slike/
+ls
+cd ..
+ls
+cd ImageProg/
+ls
+cd fashion/
+ls
+nano fash.txt
+nano fashion.xrsl
+arcproxy -S hpc.fis.unm.si
+arcproxy -I
+ls
+cd mnist
+ls
+arccp mnist_test.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/fashion/
+arcls srm://dcache.arnes.si/data/arnes.si
+ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+sudo apt install ldap-utils
+ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+srmping srm://dcache.arnes.si
+yum install voms-clients
+sudo apt install yum
+yum install voms-clients
+root
+sudo -s
+sudo su
+sudo -s
+arcls srm://dcache.arnes.si/data/arnes.si
+cd
+~/.arc
+cd ~/.arc
+arcls srm://dcache.arnes.si/data/arnes.si
+arcproxy -I
+sudo arcls srm://dcache.arnes.si/data/arnes.si
+ll
+cat srms.conf 
+sudo arcls srm://dcache.arnes.si/
+arcls srm://dcache.arnes.si/
+arcls 
+arcls --help
+arcls -v
+arcls -P
+ll
+cat client.conf 
+less client.conf 
+ll
+arcls srm://dcache.arnes.si/
+arcls srm://dcache.arnes.si/data/arnes.si
+arcls srm://dcache.arnes.si/data/arnes.si/
+arcls srm://dcache.arnes.si/data/arnes.si/Alenkat
+ll
+mkdir naoge
+mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} [naoge]
+ls
+mv [vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl] [naoge]
+mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} {naoge}
+ls
+mv Matem.sh naoge
+ls
+mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.sh*,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} naoge
+mv {vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl} naoge
+mv vsota.sh*,vsota.py,vsota.xrsl,test1.xrsl,Matem.xrsl,Matem.java,joblist.xml,joblist1.xml,hellogrid.xrsl naoge
+mv -t naoge vsota.sh* vsota.py vsota.xrsl test1.xrsl Matem.xrsl Matem.java joblist.xml joblist1.xml hellogrid.xrsl
+mv vsota.sh* vsota.py vsota.xrsl test1.xrsl Matem.xrsl Matem.java joblist.xml joblist1.xml hellogrid.xrsl naoge
+mv vsota.sh* naoge
+ls
+ll
+cd
+cd Documents/Slike/
+ls
+cd fashion/
+ls
+cd ..
+ll
+cd ..
+ImageProg/
+cd ImageProg/
+ls
+cd fashion/
+ls
+nano fashion.xrsl 
+nano fashion.sh
+cat fashion.sh
+nano fashion.xrsl 
+arcsub -c jost.arnes.si fashion.xrsl
+ls
+nano fashion.xrsl 
+cd mnist
+ls
+mv mnist_test.csv fashion
+ls
+mv fashion mnist_test.csv
+ls
+cd ..
+ls
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arccat --all
+arcstat --all
+arccat -
+arccat -l
+arcstat --all
+ls
+arcget gsiftp://jost.arnes.si:2811/jobs/wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+cd gsiftp://jost.arnes.si:2811/jobs/wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ls
+cd wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ls
+ll
+cd mylog,log
+ls
+nano err.txt
+cd ..
+cdls
+cd ..
+cd fashion/
+ls
+cd wHqLDmLUJKwnmmR0Xox1SiGmABFKDmABFKDmoi0ODmABFKDmzdedUm
+ls
+cd mylog.log
+ls
+nano errors
+nano output
+nano xml
+nano local
+nano input
+nano grami
+nano failed
+nano diag
+nano description 
+cd ..
+ls
+nano fashion.xrsl
+vips
+sudo apt install libvips-tools
+ls
+cd ..
+ls
+cd ..
+ls
+cd Slike/
+ls
+cd FRDKaggle/
+ls
+nano test.csv 
+cd ..
+ls
+cd Convert/
+nano program1.py
+nano program2.py
+lsblf
+lsblk
+mount
+ll
+nginx --version
+server --version
+hostname
+sudo nano /etc/default/apport
+cd Documents/
+ls
+cat ~/.bash_history
+ll
+cd ImageProg/
+ls
+cd ..
+cd Slike/
+ll
+cd FRDImage/
+ls
+nano opis.txt
+cd ..
+mkdir FRDImNet
+cd FRDImNet
+nano urls.txt
+sort -u urls.txt | wget -i- --no-check-certificate
+cd ..
+cd Ima
+ls
+cd ..
+cd FRDKaggle/
+grep -o "http.*jpeg" face_detection.json > urls.txt
+ls
+nano urls.txt
+cd
+cd Documents/Slike/FRDpics/
+nano opis.txt
+ls
+cd ..
+ls
+cd Convert/
+nano prog3.py
+cd ..
+cd FRDdatasetsearch/
+ls
+cd imageIds/
+grep -o "https.*jpg" image_ids_and_rotation.csv > urls.txt
+ls
+nano urls.txt
+nano opis.txt
+sort -u urls.txt | wget -i- --no-check-certificate
+cd ..
+ls
+cd FRDMITCbcl/
+ls
+cd test/
+nano conv1.py
+ls
+cd ..
+cd training-originals/
+ls
+nano conv1.py
+python3 conv1.py
+nano conv1.py
+nano conv2.py
+python3 conv2.py
+nano conv2.py
+cv2
+nano conv1.py
+python3 conv1.py
+nano conv1.py
+ls
+0008_007.jpg jpgtopnm
+netpbm
+for i in *.png; do pngtopnm $i | ppmtojpeg >`basename $i .png`.jpg; done
+for i in *.jpg; do jpgtopnm $i | ppmtojpeg >`basename $i .png`..ppm; done
+ls
+for i in *.jpg; do jpgtopnm $i | jpgtopnm >`basename $i .png`.pnm; done
+ls
+rm -f *.ppm
+ls
+rm -f .pnm
+ls
+rm -f *.pnm
+ls
+nano conv1.py
+cd Documents/ImageProg/
+nano pngtocsv.py
+cd ..
+cd Slike/Convert/
+nano program4.py
+python3 program4.py
+nano program4.py
+ls
+cd ..
+ls
+sudo apt-get update
+sudo apt-get upgrade
+audo apt autoremove
+sudo apt autoremove
+arcproxy -S hpc.fis.unm.si
+arcproxy -I
+ls * -r
+ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
+*/*
+Documents*/*
+Documents/ */*
+Documents */*
+ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid'
+ldapsearch -x -h jost.arnes.si -p 2135 -b ' Mds-Vo-name=local,o=grid' | grep nordugrid-cluster-runtimeenvironment
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+arcmkdir gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+arccp neki
+arcproxy -S hpc.fis.unm.si
+arcproxy -I
+ll
+cd ~/.arc
+ll
+cd
+arcproxy -S gen.vo.sling.si
+arcproxy -I
+arcmkdir gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+arccp <cd Documents/ImageProg/fashion/> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+arccp <Documents/ImageProg/fashion/mnist> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+cd Documents/ImageProg/fashion/ls
+cd Documents/ImageProg/fashion/
+ls
+arccp mnist gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist
+cd mnist
+ls
+arccp mnist_test.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_test.csv
+arccp mnist_train.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+arccd atrpin
+arcls
+arccd gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin
+nano gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+ls
+nano gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_test.csv
+ls
+cd ..
+ls
+nano fashion.xrsl
+arcproxy -I
+./clientSRM  ping -e httpg://voms.sling.si:15005
+ping -e httpg://voms.sling.si:15005
+ping -6 httpg://voms.sling.si:15005
+ping -6 httsg://voms.sling.si:15005
+ping -6 https://voms.sling.si:15005
+ping -6 voms.sling.si:15005
+ping -6 [-s packetsize voms.sling.si:15005]
+gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/.
+gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+ls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+cd ~/.arc
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si
+arcls gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/
+cd
+cd Documents/Slike/Convert/
+python3 program2.py
+nano program2.py
+python3 program2.py
+nano program2.py
+install cv2
+sudo apt-get install python3-cv2
+sudo apt-get install python3-oopencv
+sudo apt-get install python3-opencv
+python3 program2.py
+nano program2.py
+python3 program2.py
+nano program2.py
+python3 program2.py
+nano program2.py
+python3 program2.py
+cat ~/.bash_history
+arccp <local_file> gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpincd ..
+cd
+cd Documents/ImageProg/fashion/
+ls
+nano fashion.xrsl
+arcsub -c jost.arnes.si fashion.xrsl
+arcstat --all
+arckill gsiftp://jost.arnes.si:2811/jobs/FgfNDmT6aMwnmmR0Xox1SiGmABFKDmABFKDmxoNbDmABFKDmWZdkDo
+arcstat --all
+arccp mnist_train.csv gsiftp://dcache.arnes.si/data/arnes.si/gen.vo.sling.si/atrpin/mnist_train.csv
+sudo apt-grt update
+sudo apt-get update
+sudo apt-get upgrade
+cat ~/.bash_history
+cd Documents/Slike/Convert/
+python3 program1.py
+autopep8 -i program1.py
+python3 program1.py
+ls
+nano img_pixels.csv
+python3 program1.py
+ls
+python3 program4.py
+history -w ~/history.txt
+ls
+cd ..
+history -w ~/history.txt
